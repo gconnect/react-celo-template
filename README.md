@@ -32,7 +32,7 @@ You can modify them to suite your usecase;
 Contributions are welcome.
 
 # License
-Distributed under the MIT License. See for more information. [LICENSE]()
+Distributed under the MIT License. See for more information. [LICENSE](https://github.com/gconnect/react-celo-template/blob/main/LICENSE)
 
 
 
