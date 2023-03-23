@@ -12,13 +12,13 @@ The following features was added out of the box...
 - [Tailwind](https://tailwindcss.com/docs)
 - [hardhat](https://hardhat.org/docs)
 
-# Componentsin this template. 
+# Available Components
 You can modify them to suite your usecase;
-- header.js : This is the header
-- content.js : This file will house other components
-- footer.js : This contains the footer.
-- layout.js : This file contains the header, content and footer component
-- interact.js : This files handles all contract interactions on the frontend.
+- `header.js` - This is the header
+- `content.js` - This file will house other components
+- `footer.js` - This contains the footer
+- `layout.js` -  This file contains the header, content and footer component
+- `interact.js` - This files handles all contract interactions on the frontend
 
 # How to Use the Template
 - Clone the repo
